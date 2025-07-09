@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ehsan Soleimani"
+title                    : "Ehsan's Homepage"
 title_separator          : "-" 
 name                     : &name "Ehsan Soleimani"
 description              : &description "personal description"
@@ -24,22 +24,22 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ehsan Soleimani"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Research Asistant"
   location         : "MO, USA"
-  employer         : "Red Brick University"
+  employer         :  
   uri              : # URL
   email            : "ehsansoleimani1998@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=sabcQeYAAAAJ&hl=en&inst=15611845720231691803"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9198-5794"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ehsan-Soleimani-4?ev=hdr_xprf" # URL
   scopus           : # URL
 
   # Repositories and software development
