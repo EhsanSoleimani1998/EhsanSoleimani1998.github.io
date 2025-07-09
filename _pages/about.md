@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About Ehsan"
 author_profile: true
 redirect_from: 
   - /about/
@@ -36,7 +36,7 @@ I’m a Ph.D. candidate in Electrical Engineering at Missouri S&T, working on re
 
 ## 📄 Publications
 
-1. Soleimani, E., Jagannathan, S. “Online Optimal Control of Affine …” *IEEE TAS*, 2025.  
+1. E. Soleimani, A. K. Sedigh and A. Nikoofard, "Data-Driven Reinforcement Learning-Based Forgetting Factor Iterative Learning Control," in IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 12245-12256, 2025,.  
 2. Soleimani, E., Sarangapani, “Hybrid Learning for Delayed HJB …” *IJACSP*, 2024.  
 [See all publications →](/publications)
 
@@ -44,6 +44,5 @@ I’m a Ph.D. candidate in Electrical Engineering at Missouri S&T, working on re
 
 ## 📫 Get in Touch
 
-- 📧 Ehsan.Soleimani1998@mst.edu  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/EhsanSoleimani1998)  
-- 🐙 [GitHub](https://github.com/EhsanSoleimani1998)  
+ 📧 Ehsan.Soleimani1998@mst.edu  
+
