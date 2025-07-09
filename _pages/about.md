@@ -9,7 +9,8 @@ redirect_from:
 
 # Hi, I’m **Ehsan Soleimani**
 
-I’m a Ph.D. candidate in Electrical Engineering at Missouri S&T, working on reinforcement-learning-based UAV formation control in non-stationary environments.
+I am a researcher at Missouri University of Science & Technology. My research interests lies at the intersection of robotics, control theory, deep reinforcement learning, and human in multi-agent systems. I aim to advance autonomous systems through the development of safety-aware, real-time optimal control solutions using deep reinforcement learning, addressing critical gaps in real-world applications, particularly in multi-agent systems with human interaction. My work incorporates continual learning, barrier Lyapunov functions, and singular value decomposition based multilayer neural networks. 
+Additionally, I have experience in formation control, model predictive control, game theory, and data-driven control. The applications I have worked on are quadrotor unmanned aerial vehicles, mobile robots, robot manipulation, drum-type boiler turbine plant.
 
 ---
 
