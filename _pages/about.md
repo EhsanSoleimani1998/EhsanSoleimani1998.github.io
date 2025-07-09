@@ -36,7 +36,7 @@ I’m a Ph.D. candidate in Electrical Engineering at Missouri S&T, working on re
 
 ## 📄 Publications
 
-1. E. Soleimani, A. K. Sedigh and A. Nikoofard, "Data-Driven Reinforcement Learning-Based Forgetting Factor Iterative Learning Control," in IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 12245-12256, 2025.  [IEEE TAS](https://ieeexplore.ieee.org/abstract/document/10879362) 
+1. E. Soleimani, A. K. Sedigh and A. Nikoofard, "Data-Driven Reinforcement Learning-Based Forgetting Factor Iterative Learning Control," in [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/abstract/document/10879362), vol. 22, pp. 12245-12256, 2025.
 2. Soleimani, E., Sarangapani, “Hybrid Learning for Delayed HJB …” *IJACSP*, 2024.  
 [See all publications →](/publications)
 
@@ -44,5 +44,4 @@ I’m a Ph.D. candidate in Electrical Engineering at Missouri S&T, working on re
 
 ## 📫 Get in Touch
 
- 📧 Ehsan.Soleimani1998@mst.edu  
-
+ 📧 Ehsansoleimani1998@gmail.com
