@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hi, I’m **Ehsan Soleimani** "
 author_profile: true
 redirect_from: 
   - /about/
