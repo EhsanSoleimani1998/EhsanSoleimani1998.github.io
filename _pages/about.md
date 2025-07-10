@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
   - <style>
 /* container around each skill */
 .skill {
@@ -31,9 +31,6 @@ redirect_from:
   transition: width 0.6s ease;
 }
 </style>
-
----
-
 
 I am a researcher at Missouri University of Science & Technology. My research interests lies at the intersection of robotics, control theory, reinforcement learning, and multi-agent systems. 
 Additionally, I have experience in formation control, model predictive control, game theory, and data-driven control. The applications I have worked on are quadrotor unmanned aerial vehicles, mobile robots, robot manipulation, power systems like drum-type boiler turbine plant.
