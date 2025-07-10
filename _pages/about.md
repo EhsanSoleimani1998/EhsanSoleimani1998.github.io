@@ -36,12 +36,10 @@ Additionally, I have experience in formation control, model predictive control, 
 
 ## 📄 Publications
 
-1. E. Soleimani, A. K. Sedigh and A. Nikoofard, "Data-Driven Reinforcement Learning-Based Forgetting Factor Iterative Learning Control," in [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/abstract/document/10879362), vol. 22, pp. 12245-12256, 2025.
-2. Soleimani, E., Sarangapani, “Hybrid Learning for Delayed HJB …” *IJACSP*, 2024.  
+1. E. Soleimani, et al. , "Data-Driven Reinforcement Learning-Based Forgetting Factor Iterative Learning Control," in [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/abstract/document/10879362), 2025.
+2. E. Soleimani, et al. , “Safe Optimal Control of Quadrotor Formations Using Multi-Layer Neural Networks and Continual Learning” [*IJACSP*](https://onlinelibrary.wiley.com/doi/10.1002/acs.4020?af=R), 2025.  
 [See all publications →](/publications)
 
 ---
 
-## 📫 Get in Touch
 
- 📧 Ehsansoleimani1998@gmail.com
