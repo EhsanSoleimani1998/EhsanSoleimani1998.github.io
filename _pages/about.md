@@ -48,7 +48,7 @@ Additionally, I have experience in formation control, model predictive control, 
 - Optimization
   
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 - **HDRL Formation Control**  
@@ -60,6 +60,7 @@ Additionally, I have experience in formation control, model predictive control, 
   [View details →](/portfolio/mpc-quadrotor)
 
 ---
+-->
 
 ## 📄 Publications
 
