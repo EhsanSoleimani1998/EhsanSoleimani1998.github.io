@@ -90,21 +90,21 @@ Additionally, I have experience in formation control, model predictive control, 
 <div class="skill">
   <span class="skill-name">Robotics: ROS, Gazebo, MoveIt, Nav2</span>
   <div class="skill-bar-container">
-    <div class="skill-bar" style="width: 85%"></div>
+    <div class="skill-bar" style="width: 55%"></div>
   </div>
 </div>
 
 <div class="skill">
   <span class="skill-name">Python</span>
   <div class="skill-bar-container">
-    <div class="skill-bar" style="width: 80%"></div>
+    <div class="skill-bar" style="width: 70%"></div>
   </div>
 </div>
 
 <div class="skill">
-  <span class="skill-name">C++</span>
+  <span class="skill-name">C & C++</span>
   <div class="skill-bar-container">
-    <div class="skill-bar" style="width: 75%"></div>
+    <div class="skill-bar" style="width: 60%"></div>
   </div>
 </div>
 
