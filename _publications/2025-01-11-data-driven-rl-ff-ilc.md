@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-01-11-data-driven-rl-ff-ilc
 excerpt: 
-date: 2025-01-01
+date: 2025-12-01
 venue: "IEEE Transactions on Automation Science and Engineering"
 slidesurl:   # add your slides URL here if available
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10879362"
