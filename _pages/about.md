@@ -5,6 +5,33 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+  - <style>
+/* container around each skill */
+.skill {
+  margin: 0.75rem 0;
+}
+/* label/skill name */
+.skill-name {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+/* the grey “track” */
+.skill-bar-container {
+  background-color: #e0e0e0;
+  border-radius: 0.25rem;
+  overflow: hidden;
+}
+/* the coloured “fill” (gradient from blue→black) */
+.skill-bar {
+  height: 0.75rem;
+  background: linear-gradient(to right, #0066ff, #000000);
+  width: 0%; /* we’ll override this inline per bar */
+  transition: width 0.6s ease;
+}
+</style>
+
 ---
 
 
@@ -43,5 +70,51 @@ Additionally, I have experience in formation control, model predictive control, 
 [See all publications →](/publications)
 
 ---
+
+## 🔧 Technical Skills
+
+### Software Proficiency & Skills
+
+<div class="skill">
+  <span class="skill-name">Guidance, Control and Navigation</span>
+  <div class="skill-bar-container">
+    <div class="skill-bar" style="width: 95%"></div>
+  </div>
+</div>
+
+<div class="skill">
+  <span class="skill-name">MATLAB / Simulink</span>
+  <div class="skill-bar-container">
+    <div class="skill-bar" style="width: 90%"></div>
+  </div>
+</div>
+
+<div class="skill">
+  <span class="skill-name">Robotics: ROS2, Gazebo, MoveIt, Nav2</span>
+  <div class="skill-bar-container">
+    <div class="skill-bar" style="width: 85%"></div>
+  </div>
+</div>
+
+<div class="skill">
+  <span class="skill-name">Python</span>
+  <div class="skill-bar-container">
+    <div class="skill-bar" style="width: 80%"></div>
+  </div>
+</div>
+
+<div class="skill">
+  <span class="skill-name">C++</span>
+  <div class="skill-bar-container">
+    <div class="skill-bar" style="width: 75%"></div>
+  </div>
+</div>
+
+<div class="skill">
+  <span class="skill-name">Computer Vision</span>
+  <div class="skill-bar-container">
+    <div class="skill-bar" style="width: 60%"></div>
+  </div>
+</div>
 
 
