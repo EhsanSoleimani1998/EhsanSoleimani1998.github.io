@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  - <style>
+<style>
 /* container around each skill */
 .skill {
   margin: 0.75rem 0;
@@ -31,6 +31,7 @@ redirect_from:
   transition: width 0.6s ease;
 }
 </style>
+
 
 I am a researcher at Missouri University of Science & Technology. My research interests lies at the intersection of robotics, control theory, reinforcement learning, and multi-agent systems. 
 Additionally, I have experience in formation control, model predictive control, game theory, and data-driven control. The applications I have worked on are quadrotor unmanned aerial vehicles, mobile robots, robot manipulation, power systems like drum-type boiler turbine plant.
@@ -87,7 +88,7 @@ Additionally, I have experience in formation control, model predictive control, 
 </div>
 
 <div class="skill">
-  <span class="skill-name">Robotics: ROS2, Gazebo, MoveIt, Nav2</span>
+  <span class="skill-name">Robotics: ROS, Gazebo, MoveIt, Nav2</span>
   <div class="skill-bar-container">
     <div class="skill-bar" style="width: 85%"></div>
   </div>
@@ -107,11 +108,6 @@ Additionally, I have experience in formation control, model predictive control, 
   </div>
 </div>
 
-<div class="skill">
-  <span class="skill-name">Computer Vision</span>
-  <div class="skill-bar-container">
-    <div class="skill-bar" style="width: 60%"></div>
-  </div>
-</div>
+
 
 
