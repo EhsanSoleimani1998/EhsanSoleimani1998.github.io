@@ -3,7 +3,7 @@ title: "Data-Driven Reinforcement Learning-Based Forgetting Factor Iterative Lea
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-data-driven-rl-ff-ilc
-excerpt: "A hybrid RL-ILC framework that learns a dynamic forgetting factor online to improve robustness and convergence under non-repetitive disturbances."
+excerpt: 
 date: 2025-01-01
 venue: "IEEE Transactions on Automation Science and Engineering"
 slidesurl:   # add your slides URL here if available
