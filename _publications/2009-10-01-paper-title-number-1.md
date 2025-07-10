@@ -1,14 +1,24 @@
 ---
-title: "Paper Title Number 1"
+title: "Data-Driven Reinforcement Learning-based Forgetting Factor Iterative Learning Control"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-01-01-data-driven-rl-ff-ilc
+excerpt: "A data-driven RL-based forgetting-factor ILC algorithm is proposed to improve tracking performance in repetitive automation tasks."
+date: 2025-01-01
+venue: "IEEE Transactions on Automation Science and Engineering"
+slidesurl: ""                       # add URL if you have slides
+paperurl: "/files/soleimani2025data.pdf"
+bibtexurl: "/files/soleimani2025data.bib"
+citation: >
+  Soleimani, E., Sedigh, A. K., & Nikoofard, A. (2025).  
+  "Data-Driven Reinforcement Learning-based Forgetting Factor Iterative Learning Control."  
+  _IEEE Transactions on Automation Science and Engineering_.
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+A brief summary or abstract can go here. You might describe:
+
+- The core problem you address  
+- How the forgetting factor is learned via RL  
+- Key results (e.g., error reduction, convergence speed)  
+- Future directions
+
