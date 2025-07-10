@@ -13,8 +13,6 @@ citation:
 ---
 
 
-
-
 ## Abstract
 We propose a data-driven control scheme that integrates reinforcement learning (RL) with iterative learning control (ILC). To overcome the shortcomings of conventional ILC under non-repetitive noise, disturbances, and model uncertainties, we introduce a dynamic Forgetting Factor ILC (FFILC). By leveraging past iteration data and optimizing the forgetting factor via RL, FFILC achieves faster convergence and greater adaptability. We provide a rigorous convergence proof and demonstrate, through simulations on a quadrotor and a drum-type boiler turbine plant, that RL-FFILC outperforms advanced baseline controllers in terms of tracking accuracy and robustness.
 
