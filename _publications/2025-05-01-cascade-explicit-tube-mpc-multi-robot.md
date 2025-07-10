@@ -7,7 +7,7 @@ excerpt:
 date: 2025-05-01
 venue: "Control Theory and Technology"
 slidesurl:   # add your slides URL here if you have one
-paperurl: 
+paperurl: "https://link.springer.com/article/10.1007/s11768-025-00244-y"
 bibtexurl:
 citation: 
 ---
