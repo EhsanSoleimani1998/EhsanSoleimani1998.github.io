@@ -15,10 +15,12 @@ Additionally, I have experience in formation control, model predictive control, 
 
 ## 🔭 Research Interests
 
-- Reinforcement Learning & Optimal Control  
-- Multi-agent UAV Formations with Communication Delays  
-- Hybrid Learning for Real-time Control  
-- Safety-aware and Explainable AI  
+- Optimization  
+- Intelligent Control
+- Robotics & Autonomous Systems
+- Machine Learning & Artificial Intelligence
+- Reinforcement Learning  
+- Multi-Agent Systems 
 
 ---
 
