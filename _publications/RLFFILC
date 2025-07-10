@@ -22,4 +22,4 @@ We propose a data-driven control scheme that integrates reinforcement learning (
 
 Industrial automation often relies on repetitive tasks where ILC can enhance performance—but classical ILC falters in the presence of non-repetitive disturbances or poorly known dynamics. RL-FFILC offers a practical, data-driven solution that requires no precise model identification. By adaptively learning the optimal forgetting factor online, this method improves accuracy and resilience in Cyber-Physical Systems, such as UAV flight control and power-plant turbine regulation, making it well suited for real-world industrial deployment.
 
-paperurl: "https://ieeexplore.ieee.org/abstract/document/10879362"
+[##Download the Paper](https://ieeexplore.ieee.org/abstract/document/10879362)
