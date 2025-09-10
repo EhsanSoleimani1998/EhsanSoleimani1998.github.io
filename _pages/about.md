@@ -69,7 +69,7 @@ Additionally, I have experience in formation control, model predictive control, 
 [See all publications →](/publications)
 
 ---
-
+<!--
 ## 🔧 Technical Skills
 
 ### Software Proficiency & Skills
@@ -109,6 +109,7 @@ Additionally, I have experience in formation control, model predictive control, 
   </div>
 </div>
 
+-->
 
 
 
